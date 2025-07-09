@@ -4,7 +4,7 @@ I'm a passionate frontend developer dedicated to crafting user-centered interfac
 
 Creating new applications and exploring different programming languages brings me immense satisfaction. I'm constantly seeking fresh project ideas and innovative ways to expand my skillset.
 
-## Important Links:
+## Explore:
 Portfolio Website: [Click Here](https://www.renyreyesportfolio.com/home) - Explore a range of projects that highlight my passion for programming and my work in web development and design.
 
 Featured App: [Click Here](https://assessive.net/Microsoft%20Azure%3A%20Fundamentals/) - Take a sample test from my key application called Assessive.
