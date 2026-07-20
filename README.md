@@ -1,4 +1,4 @@
-# Frontend Engineer | Western Governors University UX Design Student
+# Senior UX Developer | WGU UX Design Student
 
 I'm a passionate frontend developer dedicated to crafting user-centered interfaces and experiences. Driven by innovation, I leverage my strong web development foundation to bring cutting-edge designs to life. I thrive on expanding my skills, always eager to learn the latest in <b>React, TypeScript, Vue, Tailwind, Material UI, HTML, CSS, and JavaScript, all while focusing on UX/UI design</b>
 
